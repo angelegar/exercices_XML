@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<biblioteca>
+  <libro>
+    <nombre>El quijote</nombre>
+    <autor>Miguel Cervantes</autor>
+    <anio>56</anio>
+  </libro>
+  <categoria>
+    <nombre>aventura</nombre>
+  </categoria>
+</biblioteca>
